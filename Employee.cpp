@@ -137,7 +137,7 @@ void Employee::display(void) const
 	}
 	else
 	{
-		cout << "This record contains bad data" << endl;
+		cout << "This record contains bad data, cannot process" << endl;
 	}
 
 }
